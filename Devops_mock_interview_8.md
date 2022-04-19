@@ -32,6 +32,7 @@ Num  Colour    #define         R G B
 6    cyan      COLOR_CYAN      0,1,1
 7    white     COLOR_WHITE     1,1,1
 ```
+..
 
 tput text mode commands 
 
